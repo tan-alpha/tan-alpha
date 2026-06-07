@@ -4,7 +4,7 @@
 
 I build and ship AI-powered products that combine retrieval systems, agentic workflows, enterprise integrations, backend platforms, and user-facing experiences.
 
-My focus is on building production-grade AI systems that are reliable, observable, and scalable—not just demos.
+My focus is on building production-grade AI systems that are reliable, observable, and scalable - not just demos.
 
 ---
 
